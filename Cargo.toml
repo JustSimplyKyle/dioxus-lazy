@@ -7,7 +7,7 @@ description = "Async list components for Dioxus"
 repository = "https://github.com/dioxus-community/dioxus-lazy"
 
 [dependencies]
-dioxus = "0.6.0-alpha.2"
+dioxus = { git = "https://github.com/DioxusLabs/dioxus" }
 dioxus-resize-observer = { git = "https://github.com/dioxus-community/dioxus-resize-observer" }
 dioxus-use-mounted = { git = "https://github.com/dioxus-community/dioxus-use-mounted" }
 log = "0.4.20"
