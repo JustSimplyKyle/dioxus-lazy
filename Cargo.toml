@@ -17,4 +17,4 @@ web-sys = { version = "0.3.56", features = ["HtmlElement"] }
 futures = "0.3.29"
 
 [dev-dependencies]
-dioxus = { version = "0.6.0-alpha.2", features = ["web"] }
+dioxus = { git = "https://github.com/DioxusLabs/dioxus", features = ["web"] }
